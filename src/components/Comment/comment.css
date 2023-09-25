@@ -1,0 +1,11 @@
+.comments{
+          display: grid;
+          grid-template-columns: repeat(2,1fr);
+          gap: 20px;
+          width: 90%;
+          margin: auto;
+          border:2px solid green ;
+          border-radius:10px;
+          padding:10px;
+          
+}
