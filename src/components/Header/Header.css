@@ -3,4 +3,13 @@ nav a{
           
           align-items: center;
 }
+nav a.active{
+          text-decoration: underline;
+          font-weight: bold;
+          background-color: rgb(228, 15, 15);
+          border: 0px solid;
+          border-radius: 5px;
+          color: white;
+          padding: 6px;
+}
 
